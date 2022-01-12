@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Pavel Khomyakov</a>!</h1>
-</h1 align="center">a.k.a.</h1> <h1>Intel Celeron</h1> <br> <h1>Pentium MMX 200</h1>
+</h1 align="center"><h1>a.k.a.</h1> <p align="center">Intel Celeron</p> <br> <p align="center">Pentium MMX 200</p>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 
