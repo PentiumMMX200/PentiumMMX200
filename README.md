@@ -2,7 +2,8 @@
   <img src="https://github.com/PentiumMMX200/PentiumMMX200/raw/main/assets/main.gif">
 </p>
 
-<h1 align="center">Hi, I'm Pavel Khomyakov a.k.a. Intel Celeron a.k.a. Pentium MMX 200</a>!</h1>
+<h1 align="center">Hi, I'm Pavel Khomyakov</a>!</h1>
+</h1 align="center">a.k.a.</h1> <h1>Intel Celeron</h1> <br> <h1>Pentium MMX 200</h1>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 
@@ -13,9 +14,7 @@
 ## Links
 
 <p align="center">
-  <a href="mailto:radontzev@yandex.ru"><img src="https://img.icons8.com/color/48/000000/filled-message.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="mailto:radontzev@yandex.ru"><img src="https://img.icons8.com/color-glass/96/000000/filled-message.png" alt="email"/></a>
   <a href="https://www.instagram.com/intelceleron667"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://vk.com/intelceleron"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
   <a href="mailto:IntelCeleron#21348"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
