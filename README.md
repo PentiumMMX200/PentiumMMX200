@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/PentiumMMX200"><img src="https://github-readme-stats.vercel.app/api?username=PentiumMMX200&hide_border=true&show_icons=true" alt="PentiumMMX200's github stats"></a>
+  <a href="https://github.com/PentiumMMX200"><img src="https://github-readme-stats.vercel.app/api?username=PentiumMMX200&hide_border=true&show_icons=true&theme=radical" alt="PentiumMMX200's github stats"></a>
 </p>
 
 ## Links
