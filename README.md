@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/PentiumMMX200/PentiumMMX200/raw/main/assets/main.gif">
+</p>
 
-<!--
-**PentiumMMX200/PentiumMMX200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Pavel Khomyakov a.k.a. Intel Celeron a.k.a. Pentium MMX 200</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/PentiumMMX200"><img src="https://github-readme-stats.vercel.app/api?username=PentiumMMX200&hide_border=true&show_icons=true" alt="PentiumMMX200's github stats"></a>
+</p>
+
+## Links
+
+<p align="center">
+  <a href="mailto:radontzev@yandex.ru"><img src="https://img.icons8.com/color/48/000000/filled-message.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://www.instagram.com/intelceleron667"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://vk.com/intelceleron"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
+  <a href="mailto:IntelCeleron#21348"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+</p>
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=PentiumMMX200.PentiumMMX200" alt="visitor badge"/>
+</p>
