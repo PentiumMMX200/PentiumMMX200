@@ -19,7 +19,3 @@
   <a href="https://vk.com/intelceleron"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
   <a href="mailto:IntelCeleron#21348"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=PentiumMMX200.PentiumMMX200" alt="visitor badge"/>
-</p>
